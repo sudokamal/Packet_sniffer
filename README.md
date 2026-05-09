@@ -20,7 +20,7 @@ A CLI-based packet sniffer built in Python using raw sockets, inspired by Wiresh
 ```bash
 sudo python3 packet_sniffer.py 
 
-## Developers
+## Developer
 Kamal Dhakar
 
 
