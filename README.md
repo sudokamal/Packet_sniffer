@@ -22,6 +22,6 @@ sudo python3 packet_sniffer.py
 
 ## Developers
 Kamal Dhakar
-Rajnish Das
-Natasha Nagauri
+
+
 
