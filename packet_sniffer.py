@@ -17,7 +17,7 @@ RESET = "\033[0m"
 
 def banner():
     print(f"{BOLD}{CYAN}Network Packet Sniffer{RESET}")
-    print(f"{BOLD}{RED}Developed by Kamal Dhakar , Rajnish Das , Natasha Nagouri   {RESET}\n")
+    print(f"{BOLD}{RED}Developed by Kamal Dhakar   {RESET}\n")
 
 def get_interfaces():
     return socket.if_nameindex()
